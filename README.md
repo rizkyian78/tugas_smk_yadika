@@ -7,3 +7,5 @@ Ini ada adalah contoh project git di smk yadika
 const item = () => {}
 
 ```
+
+perubahan kedua
